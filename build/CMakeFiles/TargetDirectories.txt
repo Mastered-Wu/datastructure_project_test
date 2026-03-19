@@ -1,3 +1,0 @@
-D:/develop/datastructure/datastructure_project_test/build/CMakeFiles/main.dir
-D:/develop/datastructure/datastructure_project_test/build/CMakeFiles/edit_cache.dir
-D:/develop/datastructure/datastructure_project_test/build/CMakeFiles/rebuild_cache.dir
